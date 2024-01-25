@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been learning to data engineer for 1 years, after switching careers.
 
 * 🌍  I'm based in Phitsanulok, Thailand
-* ✉️  You can contact me at [grittapop.p@gmail.com](mailto:grittapop.p@gmail.com)
+* ✉️  You can contact me at [grittapop.ph@gmail.com](mailto:grittapop.p@gmail.com)
 
 ### Skills
 
