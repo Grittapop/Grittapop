@@ -30,4 +30,5 @@ I am a passionate Data Engineer with a strong interest in big data technologies 
 
 <img src="https://github.com/Grittapop/grittapop/blob/main/logo/looker.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/power-bi.svg" width="50" /> 
 
-
+## 📫 How to Reach Me
+- Email: grittapop.ph@gmail.com
