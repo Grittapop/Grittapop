@@ -32,3 +32,7 @@ I am a passionate Data Engineer with a strong interest in big data technologies 
 
 ## 📫 How to Reach Me
 - Email: grittapop.ph@gmail.com
+
+<div align="center">
+<img src="https://github.com/Grittapop/grittapop/blob/main/github-snake.svg" align="center" style="width: 100%" />
+</div>
