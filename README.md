@@ -24,7 +24,7 @@ I am a passionate Data Engineer with a strong interest in big data technologies 
 
 ### DevOps
 
-<img src="https://github.com/Grittapop/grittapop/blob/main/logo/docker.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/terraform.svg" width="50" />
+<img src="https://github.com/Grittapop/grittapop/blob/main/logo/docker.svg" width="55" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/terraform.svg" width="45" />
 
 ### Data Visualization
 
