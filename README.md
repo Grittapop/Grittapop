@@ -18,4 +18,16 @@ I am a passionate Data Engineer with a strong interest in big data technologies 
 
 <img src="https://github.com/Grittapop/grittapop/blob/main/logo/mysql.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/postgresql.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/cassandra.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/googlebigquery.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/redshift.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/snowflake.svg" width="50" />
 
+### Cloud Platforms
+
+<img src="https://github.com/Grittapop/grittapop/blob/main/logo/googlecloud.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/aws.svg" width="50" /> 
+
+### DevOps
+
+<img src="https://github.com/Grittapop/grittapop/blob/main/logo/docker.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/terraform.svg" width="50" />
+
+### Data Visualization
+
+<img src="https://github.com/Grittapop/grittapop/blob/main/logo/looker.svg" width="50" /> <img src="https://github.com/Grittapop/grittapop/blob/main/logo/power-bi.svg" width="50" /> 
+
 
